@@ -1,0 +1,15 @@
+﻿body header h1
+{font-weight:bold;
+ text-decoration:underline;
+}
+
+body {
+    background-color:lightgray;
+}
+body header p{
+    font-style:italic;
+    font-size:20px;
+}
+header{
+   
+}
