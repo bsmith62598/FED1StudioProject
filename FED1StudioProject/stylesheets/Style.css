@@ -4,6 +4,7 @@
     font-size:26px;
     color:;
     text-align:center;
+    
 }
 
 body {
@@ -28,3 +29,42 @@ article aside h2{
 article h2 {
     text-align: center;
 }
+
+nav a {
+    color: white;
+}
+
+nav ul {
+    background-color: black;
+    color: white;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    text-align:center;
+}
+
+    nav ul li {
+        display: inline-block;
+        padding: 5px;
+        font-size:25px;
+        color: white;
+    }
+
+.selected {
+    color: white;
+    background-color: white;
+}
+
+    .selected a {
+        color: black;
+    }
+
+nav li:hover {
+    background-color: white;
+}
+
+nav a:hover {
+    color: black;
+}
+

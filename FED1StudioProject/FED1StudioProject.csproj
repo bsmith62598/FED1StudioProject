@@ -69,6 +69,8 @@
   <ItemGroup>
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
+    <Content Include="images\download.png" />
+    <Content Include="images\testLogo.png" />
     <Content Include="stylesheets\Style.css" />
     <Content Include="Team.html" />
     <Content Include="index.html" />
@@ -87,7 +89,6 @@
     </None>
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="images\" />
     <Folder Include="scripts\" />
   </ItemGroup>
   <PropertyGroup>
