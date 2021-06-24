@@ -76,3 +76,8 @@ nav a:hover {
 body {
     font-family: 'Acme', sans-serif;
 }
+
+.background{
+    text-align:center;
+    align-content:center;
+}

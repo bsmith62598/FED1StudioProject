@@ -70,6 +70,7 @@
     <Content Include="Classes.html" />
     <Content Include="Contact.html" />
     <Content Include="images\download.png" />
+    <Content Include="images\fed1background.jpg" />
     <Content Include="images\testLogo.png" />
     <Content Include="stylesheets\Style.css" />
     <Content Include="Team.html" />
